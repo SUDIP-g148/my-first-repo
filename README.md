@@ -13,9 +13,9 @@ My name is Sudip Gurung.
 4. Dog
 5. Egg
 
-I am Sudip Gurung. I am from Nepal. Currently, living in Japan as an International Student. 
+-I am Sudip Gurung. I am from Nepal. Currently, living in Japan as an International Student. 
 
-私の学校の名前は国際ビジネスデザイン専門学校です。
+-私の学校の名前は国際ビジネスデザイン専門学校です。
 
 
 
