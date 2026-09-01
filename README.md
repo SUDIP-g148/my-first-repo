@@ -1,7 +1,7 @@
 # HELLO
 This is my 1st repo!
 My name is Sudip Gurung. 
-私の名前はグルン。スディプです。
+私の名前はグルン.スディプです。
 
 - item1
 - item2
